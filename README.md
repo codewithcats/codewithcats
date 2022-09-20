@@ -35,6 +35,7 @@ _December 2020 - September 2022_
 Develop Content Management System for multi-millions users per day websites
 - Design and develop the whole system by myself
 - Use static site generation to create websites
+- Use graph database; [Neo4J](https://neo4j.com/), to store domain relationships
 
 **Technologies**
 - **Front-end**: React, Typescript, Elm, tailwindcss, EleventyJS, Astro
@@ -52,6 +53,7 @@ _October 2018 - July 2020_
 
 ### Chief Product Officer, Mumu Pet Guide
 _July 2015 - October 2018_
+
 A part-time startup building products for pet owners
 
 **Technologies**
@@ -62,6 +64,7 @@ A part-time startup building products for pet owners
 
 ### Front-end Architect, Proteus Technologies
 _December 2012 - October 2018_
+
 Deliver client projects
 
 **Technologies**

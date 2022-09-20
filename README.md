@@ -1,15 +1,15 @@
 Tanawat Tassana (Amp)
 # Front-end Architect 🎨
-I love design and build interactivities! I have been working on web front-end for 13 years, have experience on various client projects as well as building company products. While I am mainly lead the teams on front-end, I also be able to build a whole system including microservices backend, infrastructure and devops. On people side, I am an energetic team leader who help a lot of software developers grow up.
+I love designing and building interactivities! I have been working on web front end for 13 years with experiences on various client projects as well as building company products. While I mainly lead the teams on the front-end effort, I am also able to build the whole system including microservices, infrastructure, and DevOps. On people side, I am an energetic team leader who have mentored a lot of software developers and helped them grow in their careers.
 
 ## Experience
-### Front-end architect and team leader, BiggestFan Productions
+### Front-end Architect and Team Leader, BiggestFan Productions
 _July 2020 - September 2022_
 - Design and develop products
 - Focus mainly on front-end part
 - Lead developers and UX teams
 #### Projects
-**Monet.market** develop web client for blockchain application
+**Monet.market** develop [web client](https://monet.market) for Blockchain application
 - Typescript
 - React
 - XState
@@ -17,13 +17,13 @@ _July 2020 - September 2022_
 - D3
 - tailwindcss
 
-**CryptoKnights** develop [website](https://cryptoknights.games), tournament management application for CryptoKnights game
+**CryptoKnights** develop [website](https://cryptoknights.games) and tournament management application for CryptoKnights game
 - Typescript
 - React
 - NextJS
 - tailwindcss
 
-**LiveJam** develop client for real-time 2-way interaction live platform
+**LiveJam** develop client for real-time 2-way interactive Live Streaming platform
 - Typescript
 - RxJS
 - Elm
@@ -31,7 +31,7 @@ _July 2020 - September 2022_
 
 ### System architect, Moji Town
 _December 2020 - September 2022_
-Develop content management system for multi-millions users per day websites
+Develop Content Management System for multi-millions users per day websites
 - Design and develop the whole system by myself
 - Use static site generation to create websites
 
@@ -39,7 +39,8 @@ Develop content management system for multi-millions users per day websites
 - **Front-end**: React, Typescript, Elm, tailwindcss, EleventyJS, Astro
 - **Back-end**: NodeJS, Typescript, Go, Postgresql, Neo4J, RabbitMQ, Firebase
 - **Operations**: Docker, AWS EC2, AWS Cloudfront, Cloudflare, Digital Ocean
-### Front-end architect and team leader, HotPlay
+
+### Front-end Architect and Team Leader, HotPlay
 _October 2018 - July 2020_
 - Develop mobile application using web tecnologies
 - Develop e-sports tournament management platform
@@ -47,6 +48,7 @@ _October 2018 - July 2020_
 **Technologies**
 - Elm
 - tailwindcss
+
 ### Chief Product Officer, Mumu Pet Guide
 _July 2015 - October 2018_
 A part-time startup building products for pet owners
@@ -56,6 +58,7 @@ A part-time startup building products for pet owners
 - **Mobile**: iOS development using Swift
 - **Back-end**: Elixir, NodeJS, Go, Postgresql, Firebase
 - **Operations**: Docker, Digital Ocean
+
 ### Front-end Architect, Proteus Technologies
 _December 2012 - October 2018_
 Deliver client projects
@@ -64,6 +67,7 @@ Deliver client projects
 - **Front-end**: AngularJS (version 1), React
 - **Back-end**: Python
 - **Operations**: Docker
+
 ### Application Specialist, Wealth Management
 _May 2009 - November 2012_
 Develop financial products for banks

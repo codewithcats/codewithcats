@@ -31,6 +31,7 @@ _July 2020 - September 2022_
 
 ### System Architect, Moji Town
 _December 2020 - September 2022_
+
 Develop Content Management System for multi-millions users per day websites
 - Design and develop the whole system by myself
 - Use static site generation to create websites

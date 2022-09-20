@@ -38,7 +38,7 @@ Develop Content Management System for multi-millions users per day websites
 **Technologies**
 - **Front-end**: React, Typescript, Elm, tailwindcss, EleventyJS, Astro
 - **Back-end**: NodeJS, Typescript, Go, Postgresql, Neo4J, RabbitMQ, Firebase
-- **Operations**: Docker, AWS EC2, AWS Cloudfront, Cloudflare, Digital Ocean
+- **Operations**: Docker, AWS EC2, AWS Cloudfront, Cloudflare, Digital Ocean, Grafana, Prometheus
 
 ### Front-end Architect and Team Leader, HotPlay
 _October 2018 - July 2020_

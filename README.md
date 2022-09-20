@@ -29,7 +29,7 @@ _July 2020 - September 2022_
 - Elm
 - tailwindcss
 
-### System architect, Moji Town
+### System Architect, Moji Town
 _December 2020 - September 2022_
 Develop Content Management System for multi-millions users per day websites
 - Design and develop the whole system by myself

@@ -1,8 +1,26 @@
 Tanawat Tassana (Amp)
-# Front-end Architect 🎨
-I love designing and building interactivities! I have been working on web front end for 13 years with experiences on various client projects as well as building company products. While I mainly lead the teams on the front-end effort, I am also able to build the whole system including microservices, infrastructure, and DevOps. On people side, I am an energetic team leader who have mentored a lot of software developers and helped them grow in their careers.
+# Chief Technology Officer at Paw and Betty 🚀
+With over 13 years in web development and a rich background as a Front-end Architect, I now lead as the CTO at Paw and Betty, where we're innovating in the Veterinary business sector. My role encompasses everything from software development to overseeing our entire technological framework, focusing on creating a user-friendly platform for veterinarians, animal hospital owners, and pet owners. Passionate about both technology and mentorship, I thrive on guiding our team and projects towards new heights of success and efficiency.
 
 ## Experience
+### Chief Technology Officer, Paw and Betty
+_Since September 2022_
+
+- Overseeing the development of a comprehensive platform for the Veterinary business sector.
+- Handling all aspects of software development, infrastructure, and DevOps.
+- Leading the technological strategy and vision of the company.
+#### Projects
+**VX - Veterinary Business Platform**
+
+Developing an integrated platform for animal hospital owners, veterinarians, and pet owners.
+Focused on creating a user-friendly, efficient, and scalable solution.
+- Angular
+- Typescript
+- tailwindcss
+- NodeJS
+- Postgresql
+- Docker
+
 ### Front-end Architect and Team Leader, BiggestFan Productions
 _July 2020 - September 2022_
 - Design and develop products
